@@ -1,0 +1,7 @@
+[
+  {"name":"LibreHardwareMonitor","version":"0.9.6","revision":"3d331e3370efb858411f19511373eff65a218701","license":"MPL-2.0 and third-party notices","repository":"https://github.com/LibreHardwareMonitor/LibreHardwareMonitor","archive":"https://codeload.github.com/LibreHardwareMonitor/LibreHardwareMonitor/zip/3d331e3370efb858411f19511373eff65a218701"},
+  {"name":"PawnIO.Modules","version":"0.1.6","revision":"0.1.6","license":"LGPL-2.1","repository":"https://github.com/namazso/PawnIO.Modules","archive":"https://codeload.github.com/namazso/PawnIO.Modules/zip/refs/tags/0.1.6"},
+  {"name":"DiskInfoToolkit","version":"1.1.2","revision":"25319eae5781e75bcf141e844ceab2afe94d40ea","license":"MPL-2.0","repository":"https://github.com/Blacktempel/DiskInfoToolkit","archive":"https://codeload.github.com/Blacktempel/DiskInfoToolkit/zip/25319eae5781e75bcf141e844ceab2afe94d40ea"},
+  {"name":"RAMSPDToolkit-NDD","version":"1.4.2","revision":"3b47b960e0830fef344624ad5e389675d5f0a1ce","license":"MPL-2.0","repository":"https://github.com/Blacktempel/RAMSPDToolkit","archive":"https://codeload.github.com/Blacktempel/RAMSPDToolkit/zip/3b47b960e0830fef344624ad5e389675d5f0a1ce"},
+  {"name":"BlackSharp.Core","version":"1.0.7","revision":"c70b735c6cec123ee8a046ac4a0bc6c606f52cf0","license":"MPL-2.0","repository":"https://github.com/Blacktempel/BlackSharp","archive":"https://codeload.github.com/Blacktempel/BlackSharp/zip/c70b735c6cec123ee8a046ac4a0bc6c606f52cf0"}
+]
